@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: #efedd6;
+  background-color: #c8b6e2;
   font-family: "Roboto", sans-serif;
   display: flex;
   flex-direction: column;
@@ -16,12 +16,13 @@ body {
 }
 
 h1 {
+  color: #c689c6;
   margin: 10px;
 }
 
 .box {
-  background-color: steelblue;
-  color: #fff;
+  background-color: #7a86b6;
+  color: #495c83;
   display: flex;
   align-items: center;
   justify-content: center;
